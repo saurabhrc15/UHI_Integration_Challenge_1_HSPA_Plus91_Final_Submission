@@ -1,3 +1,6 @@
+# UHI_Integration_Challenge_1_HSPA_Plus91_Final_Submission
+Execute an end to end booking for a physical consultation OPD appointment, using an HSPA, resulting in an appointment confirmation 
+
 # Physical Consultation Booking Document
 
 # Plus91 HSPA App Microservice [Folder - medixcel-uhi]
